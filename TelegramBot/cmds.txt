@@ -1,0 +1,5 @@
+<b><u>Kanpeki Info:</u></b>
+<b>/price</b> - Current price
+<b>/supply</b> - Current supply and circulation
+<b>/cap</b> - Current market cap and 24h volume
+<b>/holders</b> - Get the current total number of holders
